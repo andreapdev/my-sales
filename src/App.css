@@ -1,1 +1,17 @@
 
+button:hover{
+    font-weight: bolder;
+  }
+  
+  a{
+   color: darkslategray;
+  }
+  a:hover{
+    text-decoration: none;
+    color:darkslategray;
+    font-weight: bolder;
+  }
+  
+  *{
+    color: darkslategray;
+  }
